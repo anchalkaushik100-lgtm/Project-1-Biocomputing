@@ -1,0 +1,6 @@
+>NM_014491.4 Homo sapiens forkhead box P2 (FOXP2), transcript variant 1, mRNA
+>XM_063286479.1 PREDICTED: Rattus norvegicus forkhead box P2 (Foxp2), transcript variant X8, mRNA
+>NM_053242.4 Mus musculus forkhead box P2 (Foxp2), transcript variant 1, mRNA
+>XM_063813769.1 PREDICTED: Pan troglodytes forkhead box P2 (FOXP2), transcript variant X1, mRNA
+>NM_001260082.3 Drosophila melanogaster forkhead box P, transcript variant C (FoxP), mRNA
+
